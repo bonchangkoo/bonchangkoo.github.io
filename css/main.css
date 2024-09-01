@@ -255,7 +255,7 @@ input.inverted::placeholder{
 }
 .block-hero-2{
     --bg:#cce8ea;
-    --text:#fff;
+    --text:#000;
     -ms-flex-direction:column;
     flex-direction:column;
     -ms-flex-pack:center;
@@ -299,7 +299,7 @@ input.inverted::placeholder{
 .block-hero-2 .column.text p{
     margin:16px 0 32px;
     margin:1rem 0 2rem;
-    color:#fff;
+    color:#000;
     font-size:16px;
     font-size:1rem
 }
