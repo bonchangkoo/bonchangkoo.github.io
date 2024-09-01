@@ -32,8 +32,8 @@ page_sections:
       url: https://github.com/bonchangkoo/bonchangkoo.github.io
       button_text: "Resume (todo)"
     image:
-      image: "/uploads/2018/06/21/product-shot-1.png"
-      alt_text: Product Shot
+      image: "/uploads/main_background.png"
+      alt_text: Android App Developer
     background_image: "/uploads/2018/06/21/hero-2-bg.png"
   - template: content-feature
     block: feature-1
