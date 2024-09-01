@@ -11,8 +11,8 @@ page_sections:
         link_text: Home
       - link: "#about"
         link_text: About
-      - link: "#Service"
-        link_text: Service
+      - link: "#services"
+        link_text: Services
       - link: "#projects"
         link_text: Projects
       - link: "#contact"
@@ -51,7 +51,7 @@ page_sections:
   - template: content-feature
     block: feature-1
     media_alignment: Right
-    slug: service
+    slug: services
     headline:
       <strong>Customize Blocks</strong><span class="light">&nbsp;to make quick
       edits throughout your new site</span>
