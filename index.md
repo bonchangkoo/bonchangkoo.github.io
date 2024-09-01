@@ -40,38 +40,38 @@ page_sections:
     slug: about
     content:
       <p>I'm a self-taught Mobile App Developer with experience in designing new features from ideation to production, implementation of wireframes and design flows into high performance software applications. I take into consideration the user experience while writing reusable and efficient code. I passionately combine good design, technology, and innovation in all my projects, which I like to accompany from the first idea to release.Currently, I'm focused on Android development using Jetpack Compose.</p>
-  - template: content-feature
-    block: feature-1
-    media_alignment: Right
-    slug: services
-    headline:
-      <strong>Customize Blocks</strong><span class="light">&nbsp;to make quick
-      edits throughout your new site</span>
-    content:
-      Each block comes with custom Front Matter that can be edited in
-      Forestry CMS.
-    media:
-      image: "/uploads/2018/06/21/edit.gif"
-      alt_text: Customize Blocks
-  - template: 1-column-text
-    block: one-column-1
-    slug: projects
-    headline: 16 Fully Responsive Design Blocks
-    content: |
-      The Design Blocks can be used without Forestry but to harness the power
-      of Blocks we recommend using <a href="https://forestry.io">Forestry</a>. Once the site is imported you can immediately
-      create new sites and make them fully customizable.
-  - template: full-width-media-element
-    block: media-1
-    image: "/uploads/2018/06/21/theme.png"
-    caption: All Available Blocks
-    slug: contact
-  - template: detail-content
-    block: text-1
-    headline: Steps to Build a Site!
-    content:
-      <p>uBuild is an open-source Jekyll based demo that doubles as a builder tool inside the Forestry content manager.</p><ol><li><p><a href="https://app.forestry.io/quick-start?repo=forestryio/ubuild-jekyll&provider=github&engine=jekyll">Import this demo in Forestry</a>.</p></li><li><p>Read <a href="https://forestry.io/blog/ubuild-a-new-theme-for-static-sites-using-blocks/">our
-      article</a> and create your own Blocks.</p></li><li><p>Add and customize the available Blocks and preview them as you go along.</p></li></ol>
+  # - template: content-feature
+  #   block: feature-1
+  #   media_alignment: Right
+  #   slug: services
+  #   headline:
+  #     <strong>Customize Blocks</strong><span class="light">&nbsp;to make quick
+  #     edits throughout your new site</span>
+  #   content:
+  #     Each block comes with custom Front Matter that can be edited in
+  #     Forestry CMS.
+  #   media:
+  #     image: "/uploads/2018/06/21/edit.gif"
+  #     alt_text: Customize Blocks
+  # - template: 1-column-text
+  #   block: one-column-1
+  #   slug: projects
+  #   headline: 16 Fully Responsive Design Blocks
+  #   content: |
+  #     The Design Blocks can be used without Forestry but to harness the power
+  #     of Blocks we recommend using <a href="https://forestry.io">Forestry</a>. Once the site is imported you can immediately
+  #     create new sites and make them fully customizable.
+  # - template: full-width-media-element
+  #   block: media-1
+  #   image: "/uploads/2018/06/21/theme.png"
+  #   caption: All Available Blocks
+  #   slug: contact
+  # - template: detail-content
+  #   block: text-1
+  #   headline: Steps to Build a Site!
+  #   content:
+  #     <p>uBuild is an open-source Jekyll based demo that doubles as a builder tool inside the Forestry content manager.</p><ol><li><p><a href="https://app.forestry.io/quick-start?repo=forestryio/ubuild-jekyll&provider=github&engine=jekyll">Import this demo in Forestry</a>.</p></li><li><p>Read <a href="https://forestry.io/blog/ubuild-a-new-theme-for-static-sites-using-blocks/">our
+  #     article</a> and create your own Blocks.</p></li><li><p>Add and customize the available Blocks and preview them as you go along.</p></li></ol>
   - template: simple-footer
     block: footer-1
     content: Made with ❤︎ by Bonchang Koo
