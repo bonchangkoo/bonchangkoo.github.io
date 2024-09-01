@@ -10,7 +10,7 @@ page_sections:
       - link: "/"
         link_text: Home
       - link: "#about"
-        link_text: Abount
+        link_text: About
       - link: "#Service"
         link_text: Service
       - link: "#projects"
