@@ -68,8 +68,8 @@ page_sections:
     headline: Contact
     content: |
       If you want to know more about me or my work, or if you would just like to say hello, send me a message. I'd love to hear from you.
-      <p>Email<br><a href="bubblek87@gmail.com">bubblek87@gmail.com</a><br>
-      Social<br><a href="https://www.linkedin.com/in/%EB%B3%B8%EC%B0%BD-%EA%B5%AC-96406b14a/">LinkedIn</a>
+      <br><br>Email <a href="bubblek87@gmail.com">bubblek87@gmail.com</a><br>
+      Social <a href="https://www.linkedin.com/in/%EB%B3%B8%EC%B0%BD-%EA%B5%AC-96406b14a/">LinkedIn</a>
   - template: simple-footer
     block: footer-1
     content: Made with ❤︎ by Bonchang Koo
