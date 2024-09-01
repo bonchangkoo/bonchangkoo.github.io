@@ -17,15 +17,15 @@ page_sections:
         link_text: Projects
       - link: "#contact"
         link_text: Contact
-    cta:
-      url: https://app.forestry.io/quick-start?repo=forestryio/ubuild-jekyll&provider=github&engine=jekyll
-      button_text: Import
+    # cta:
+    #   url: https://app.forestry.io/quick-start?repo=forestryio/ubuild-jekyll&provider=github&engine=jekyll
+    #   button_text: Import
   - template: hero-banner-w-image
     block: hero-2
     slug: features
-    headline: Hello, I am bonchang <br><strong>Mobile App Developer</strong>
+    headline: Hello, I am bonchang<br><strong>Mobile App Developer</strong>
     content:
-      I am a Mobile App Developer. I am currently working at 위대한상상(요기요) as Android App Developer.
+      I am a Mobile App Developer.<br>I am currently working at 위대한상상(요기요) as Android App Developer.
     cta:
       enabled: true
       url: https://github.com/bonchangkoo/bonchangkoo.github.io
