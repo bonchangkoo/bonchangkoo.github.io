@@ -80,7 +80,7 @@ p{
     opacity:.8
 }
 .button.primary{
-    background-color:#C3E7FF;
+    background-color:#0A2803;
     color:#fff
 }
 .button.primary.inverted{
@@ -89,7 +89,7 @@ p{
 }
 .button.secondary{
     background-color:transparent;
-    border:1.5px solid #C3E7FF
+    border:1.5px solid #0A2803
 }
 .button.small{
     font-size:9.6px;
@@ -154,7 +154,7 @@ input.inverted::placeholder{
     font-size:.85rem
 }
 .block-header-1 .nav-item.active a{
-    color:#C3E7FF
+    color:#D9E7CB
 }
 .block-header-1 .nav-item a{
     text-decoration:none;
@@ -164,7 +164,7 @@ input.inverted::placeholder{
     color:#666
 }
 .block-header-1 .nav-item.active a:hover{
-    color:#C3E7FF
+    color:#D9E7CB
 }
 .block-header-1 .nav-item:last-of-type{
     margin:0
@@ -198,7 +198,7 @@ input.inverted::placeholder{
     font-size:.85rem
 }
 .block-header-2 .nav-item.active a{
-    color:#C3E7FF
+    color:#D9E7CB
 }
 .block-header-2 .nav-item a{
     text-decoration:none;
@@ -208,7 +208,7 @@ input.inverted::placeholder{
     color:#666
 }
 .block-header-2 .nav-item.active a:hover{
-    color:#C3E7FF
+    color:#D9E7CB
 }
 .block-header-2 .nav-item:last-of-type{
     margin:0
@@ -233,7 +233,7 @@ input.inverted::placeholder{
     max-height:1.5rem
 }
 .block-hero-1{
-    --bg:#C3E7FF;
+    --bg:#D9E7CB;
     --text:#fff;
     display:-ms-flexbox;
     display:flex;
@@ -254,7 +254,7 @@ input.inverted::placeholder{
     }
 }
 .block-hero-2{
-    --bg:#C3E7FF;
+    --bg:#D9E7CB;
     --text:#fff;
     -ms-flex-direction:column;
     flex-direction:column;
@@ -400,7 +400,7 @@ input.inverted::placeholder{
 .block-cta-bar{
     padding:32px;
     padding:2rem;
-    background:#C3E7FF;
+    background:#D9E7CB;
     color:#fff
 }
 .block-cta-bar .columns{
