@@ -89,7 +89,7 @@ p{
 }
 .button.secondary{
     background-color:transparent;
-    border:1.5px solid #00696f
+    border:1.5px solid #4a6365;
 }
 .button.small{
     font-size:9.6px;
@@ -154,7 +154,7 @@ input.inverted::placeholder{
     font-size:.85rem
 }
 .block-header-1 .nav-item.active a{
-    color:#D9E7CB
+    color:#cce8ea
 }
 .block-header-1 .nav-item a{
     text-decoration:none;
@@ -164,7 +164,7 @@ input.inverted::placeholder{
     color:#666
 }
 .block-header-1 .nav-item.active a:hover{
-    color:#D9E7CB
+    color:#cce8ea
 }
 .block-header-1 .nav-item:last-of-type{
     margin:0
@@ -198,7 +198,7 @@ input.inverted::placeholder{
     font-size:.85rem
 }
 .block-header-2 .nav-item.active a{
-    color:#D9E7CB
+    color:#cce8ea
 }
 .block-header-2 .nav-item a{
     text-decoration:none;
@@ -208,7 +208,7 @@ input.inverted::placeholder{
     color:#666
 }
 .block-header-2 .nav-item.active a:hover{
-    color:#D9E7CB
+    color:#cce8ea
 }
 .block-header-2 .nav-item:last-of-type{
     margin:0
@@ -233,7 +233,7 @@ input.inverted::placeholder{
     max-height:1.5rem
 }
 .block-hero-1{
-    --bg:#D9E7CB;
+    --bg:#cce8ea;
     --text:#fff;
     display:-ms-flexbox;
     display:flex;
@@ -254,7 +254,7 @@ input.inverted::placeholder{
     }
 }
 .block-hero-2{
-    --bg:#D9E7CB;
+    --bg:#cce8ea;
     --text:#fff;
     -ms-flex-direction:column;
     flex-direction:column;
@@ -400,7 +400,7 @@ input.inverted::placeholder{
 .block-cta-bar{
     padding:32px;
     padding:2rem;
-    background:#D9E7CB;
+    background:#cce8ea;
     color:#fff
 }
 .block-cta-bar .columns{
