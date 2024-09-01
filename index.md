@@ -1,13 +1,13 @@
 ---
 layout: blocks
-title: Homepage
-date: 2017-11-22T23:00:00.000+00:00
+title: Portfolio
+date: 2024-09-01T00:00:00.000+09:00
 page_sections:
   - template: navigation-header-w-button
     block: header-2
     logo: "/uploads/title_logo.png"
     navigation:
-      - link: "/"
+      - url: "/"
         link_text: Home
       - link: "#about"
         link_text: About
@@ -23,7 +23,7 @@ page_sections:
     slug: features
     headline: Hello, I am bonchang<br><strong>Mobile App Developer</strong>
     content:
-      I am a Mobile App Developer.<br>I am currently working at 위대한상상(요기요) as Android App Developer.
+      I am a Mobile App Developer.<br>I am currently working at 위대한상상(요기요) as Android Developer.
     cta:
       enabled: true
       url: https://github.com/bonchangkoo/bonchangkoo.github.io
@@ -36,8 +36,65 @@ page_sections:
     block: text-1
     headline: About Me
     slug: about
-    content:
-      <p>I'm a self-taught Mobile App Developer with experience in designing new features from ideation to production, implementation of wireframes and design flows into high performance software applications. I take into consideration the user experience while writing reusable and efficient code. I passionately combine good design, technology, and innovation in all my projects, which I like to accompany from the first idea to release.Currently, I'm focused on Android development using Jetpack Compose.</p>
+    content: |
+      <section id="about">
+      <p>I'm a self-taught Mobile App Developer with experience in designing new features from ideation to production, implementation of wireframes and design flows into high performance software applications.</p>
+      <p>I take into consideration the user experience while writing reusable and efficient code. I passionately combine good design, technology, and innovation in all my projects, which I like to accompany from the first idea to release.</p>
+      <p>Currently, I'm focused on Android development using Jetpack Compose.</p>
+
+      <p>Using a combination of cutting-edge technologies and reliable open-source software I build user-focused, performant apps for Android smartphones.</p>
+      <p>My technology stack includes the following:</p>
+      <p><table>
+          <tr>
+              <td>
+                <img src="https://developer.android.com/images/brand/Android_Robot.svg" alt="Android" width="24" height="24"><span>Android</span>
+              </td>
+              <td>
+                <img src="/uploads/kotlin_logo.png" alt="Kotlin" width="24" height="24"><span>Kotlin</span>
+              </td>
+              <td>
+                <img src="/uploads/android_studio_logo.png" alt="Kotlin" width="24" height="24"><span>Android Studio</span>
+              </td>
+              <td>
+                <img src="/uploads/gradle_logo.svg" alt="Kotlin" width="24" height="24"><span>Gradle</span>
+              </td>
+              <td>
+                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg" alt="Firebase" width="24" height="24"><span>Git</span>
+              </td>
+          </tr>
+          <tr>
+              <td>
+                <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="Firebase" width="24" height="24"><span>Firebase</span>
+              </td>
+              <td>Firebase Analytics</td>
+              <td style="font-size:.91rem">Firebase Cloud Messaging</td>
+              <td>Coroutines</td>
+              <td>Kotlin Flow</td>
+          </tr>
+          <tr>
+              <td>Jetpack Compose</td>
+              <td>Material Design</td>
+              <td>Dagger Hilt</td>
+              <td>Retrofit 2</td>
+              <td>OkHttp</td>
+          </tr>
+          <tr>
+              <td>Glide</td>
+              <td>Room database</td>
+              <td>Navigation Component</td>
+              <td>Paging</td>
+              <td>ProGuard</td>
+          </tr>
+          <tr>
+              <td>JUnit</td>
+              <td>Espresso</td>
+              <td></td>
+              <td></td>
+              <td></td>
+          </tr>
+        </table></p>
+        </section>
+      
   # - template: content-feature
   #   block: feature-1
   #   media_alignment: Right
@@ -68,8 +125,9 @@ page_sections:
     headline: Contact
     content: |
       If you want to know more about me or my work, or if you would just like to say hello, send me a message. I'd love to hear from you.
-      <br><br>Email <a href="bubblek87@gmail.com">bubblek87@gmail.com</a><br>
-      Social <a href="https://www.linkedin.com/in/%EB%B3%B8%EC%B0%BD-%EA%B5%AC-96406b14a/">LinkedIn</a>
+      <br><br>Email: <a href="mailto:bubblek87@gmail.com">bubblek87@gmail.com</a><br>
+      Address: Seoul, Republic of Korea<br>
+      Social: <a href="https://www.linkedin.com/in/%EB%B3%B8%EC%B0%BD-%EA%B5%AC-96406b14a/">LinkedIn</a>
   - template: simple-footer
     block: footer-1
     content: Made with ❤︎ by Bonchang Koo
