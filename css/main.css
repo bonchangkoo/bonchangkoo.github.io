@@ -80,7 +80,7 @@ p{
     opacity:.8
 }
 .button.primary{
-    background-color:#0A2803;
+    background-color:#00696f;
     color:#fff
 }
 .button.primary.inverted{
@@ -89,7 +89,7 @@ p{
 }
 .button.secondary{
     background-color:transparent;
-    border:1.5px solid #0A2803
+    border:1.5px solid #00696f
 }
 .button.small{
     font-size:9.6px;
