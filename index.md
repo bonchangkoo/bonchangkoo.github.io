@@ -15,11 +15,9 @@ page_sections:
         link_text: Services
       - link: "#projects"
         link_text: Projects
-      - link: "#contact"
-        link_text: Contact
-    # cta:
-    #   url: https://app.forestry.io/quick-start?repo=forestryio/ubuild-jekyll&provider=github&engine=jekyll
-    #   button_text: Import
+    cta:
+      url: "#contact"
+      button_text: Contact
   - template: hero-banner-w-image
     block: hero-2
     slug: features
