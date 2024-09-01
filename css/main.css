@@ -198,7 +198,7 @@ input.inverted::placeholder{
     font-size:.85rem
 }
 .block-header-2 .nav-item.active a{
-    color:#cce8ea
+    color:#00696f
 }
 .block-header-2 .nav-item a{
     text-decoration:none;
@@ -208,7 +208,7 @@ input.inverted::placeholder{
     color:#666
 }
 .block-header-2 .nav-item.active a:hover{
-    color:#cce8ea
+    color:#00696f
 }
 .block-header-2 .nav-item:last-of-type{
     margin:0
