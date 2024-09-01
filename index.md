@@ -23,10 +23,9 @@ page_sections:
   - template: hero-banner-w-image
     block: hero-2
     slug: features
-    headline: Hello, I am bonchang <br><strong>Android App Developer</strong>
+    headline: Hello, I am bonchang <br><strong>Mobile App Developer</strong>
     content:
-      The tool that allows you to build beautiful sites<br>all inside Forestry's
-      content manager.
+      I am a Mobile App Developer. I am currently working at 위대한상상(요기요) as Android App Developer.
     cta:
       enabled: true
       url: https://github.com/bonchangkoo/bonchangkoo.github.io
@@ -35,19 +34,12 @@ page_sections:
       image: "/uploads/main_background.png"
       alt_text: Android App Developer
     background_image: "/uploads/2018/06/21/hero-2-bg.png"
-  - template: content-feature
-    block: feature-1
-    media_alignment: Left
+  - template: detail-content
+    block: text-1
+    headline: About Me
     slug: about
-    headline:
-      <strong>Swap &amp; Switch<span class="light">&nbsp;</span></strong><span
-      class="light">the Blocks to create sites quickly</span>
     content:
-      Quickly assemble and create custom sites with 16 design blocks for seven
-      different sections.
-    media:
-      image: "/uploads/2018/06/21/blocks-split.png"
-      alt_text: uBuild Blocks Mock-Up
+      <p>I'm a self-taught Mobile App Developer with experience in designing new features from ideation to production, implementation of wireframes and design flows into high performance software applications. I take into consideration the user experience while writing reusable and efficient code. I passionately combine good design, technology, and innovation in all my projects, which I like to accompany from the first idea to release.Currently, I'm focused on Android development using Jetpack Compose.</p>
   - template: content-feature
     block: feature-1
     media_alignment: Right
