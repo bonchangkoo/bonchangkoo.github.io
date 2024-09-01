@@ -27,7 +27,7 @@ page_sections:
     cta:
       enabled: true
       url: https://github.com/bonchangkoo/bonchangkoo.github.io
-      button_text: "Resume (todo)"
+      button_text: "Resume"
     image:
       image: "/uploads/main_background.png"
       alt_text: Android App Developer
@@ -67,9 +67,9 @@ page_sections:
     slug: contact
     headline: Contact
     content: |
-      If you want to know more about me or my work, or if you would just like to say hello, send me a message. I'd love to hear from you.<br>
-      Email <a href="bubblek87@gmail.com">bubblek87@gmail.com</a>
-      Social <a href="https://www.linkedin.com/in/%EB%B3%B8%EC%B0%BD-%EA%B5%AC-96406b14a/">LinkedIn</a>
+      If you want to know more about me or my work, or if you would just like to say hello, send me a message. I'd love to hear from you.
+      <p>Email<br><a href="bubblek87@gmail.com">bubblek87@gmail.com</a><br>
+      Social<br><a href="https://www.linkedin.com/in/%EB%B3%B8%EC%B0%BD-%EA%B5%AC-96406b14a/">LinkedIn</a>
   - template: simple-footer
     block: footer-1
     content: Made with ❤︎ by Bonchang Koo
