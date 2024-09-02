@@ -546,10 +546,12 @@ input.inverted::placeholder{
     width: 100%;
     border-collapse: collapse;
 }
+
 .block-text-1 tr {
     display: flex;
     flex-wrap: wrap;
 }
+
 .block-text-1 td {
     display: flex;
     align-items: center;
@@ -559,8 +561,30 @@ input.inverted::placeholder{
     flex: 1 0 20%;
     box-sizing: border-box;
 }
+
 .block-text-1 td img {
     margin-right: 8px;
+}
+
+/* 태블릿 환경을 위한 반응형 스타일 */
+@media screen and (max-width: 768px) {
+    .block-text-1 td {
+        flex: 1 0 33.33%; /* 3개씩 표시 */
+    }
+}
+
+/* 모바일 환경을 위한 반응형 스타일 */
+@media screen and (max-width: 480px) {
+    .block-text-1 td {
+        flex: 1 0 50%; /* 2개씩 표시 */
+    }
+}
+
+/* 매우 작은 화면을 위한 스타일 */
+@media screen and (max-width: 320px) {
+    .block-text-1 td {
+        flex: 1 0 100%; /* 1개씩 표시 */
+    }
 }
 @media screen and (min-width:700px){
     .block-text-1 .columns{

@@ -61,36 +61,29 @@ page_sections:
               <td>
                 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg" alt="Firebase" width="24" height="24"><span>Git</span>
               </td>
-          </tr>
-          <tr>
               <td>
                 <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="Firebase" width="24" height="24"><span>Firebase</span>
               </td>
+              <td>Github Actions</td>
+              <td>Jenkins</td>
               <td>Firebase Analytics</td>
               <td style="font-size:.91rem">Firebase Cloud Messaging</td>
               <td>Coroutines</td>
               <td>Kotlin Flow</td>
-          </tr>
-          <tr>
               <td>Jetpack Compose</td>
               <td>Material Design</td>
               <td>Dagger Hilt</td>
               <td>Retrofit 2</td>
               <td>OkHttp</td>
-          </tr>
-          <tr>
               <td>Glide</td>
               <td>Room database</td>
               <td>Navigation Component</td>
               <td>Paging</td>
               <td>ProGuard</td>
-          </tr>
-          <tr>
               <td>JUnit</td>
               <td>Espresso</td>
-              <td></td>
-              <td></td>
-              <td></td>
+              <td>Mockk</td>
+              <td>Flipper</td>
           </tr>
         </table></p>
         </section>
